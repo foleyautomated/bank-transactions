@@ -1,0 +1,5 @@
+- Install Node.js
+- Install VSCode
+- Install the "Playwright test for VSCode" Plugin to VSCode 
+- run `npm install`
+- run the automation from '/tests/getTransactions.spec.ts'
